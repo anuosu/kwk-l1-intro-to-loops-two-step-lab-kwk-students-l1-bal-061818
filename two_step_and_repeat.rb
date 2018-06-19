@@ -22,7 +22,8 @@ def a_few_more_steps
 end
 
 def how_many_steps?
-  steps = log10loop dosteps +=log10loop
+  steps = log10until stes == 30
+  steps +=log10untilputs stepsif steps %2 = 0
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
