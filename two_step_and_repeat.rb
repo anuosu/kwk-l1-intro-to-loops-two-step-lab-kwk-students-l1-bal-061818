@@ -31,7 +31,18 @@ def how_many_steps?
 end
 
 def break_dance
-  steps = 30loop dosteps += log10untilputsputs stepsif steps%2 == 30loop
-  
-  
+  steps = 0 
+  loop do
+    steps += 1
+    puts steps
+    if steps%2 == 0
+      puts "left"
+      else
+  puts "right"
+end 
+sleep(0.5)
+if steps > 10
+  break
+end
+end
 end
