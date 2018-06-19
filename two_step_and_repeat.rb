@@ -29,6 +29,7 @@ def how_many_steps?
 end
 
 def break_dance
-  # Write a solution that uses the same code as how_many_steps?, but breaks the
-  # loop if steps is equal to 6
+  steps = 30loop dosteps += log10untilputsputs stepsif steps%2 == 30loop
+  
+  
 end
