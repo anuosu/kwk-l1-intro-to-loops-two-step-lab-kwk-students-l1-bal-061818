@@ -15,7 +15,9 @@ def a_few_more_steps
     puts "Stop"
     sleep(1)
     puts "Right foot steps right and back"
+    sleep (0.5)
     puts "Left foot crosses over right"
+    sleep (0.5)
     puts "Right foot steps right"
     sleep
   pu# Write a loop that outputs the first two sets of steps in the Two-Step
